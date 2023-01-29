@@ -20,3 +20,4 @@ x = 6
 l = 0
 u = 6
 print(solution(L, x, l, u))
+# gg
